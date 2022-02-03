@@ -121,6 +121,7 @@ background-color: #C0DBD9;
  font-size: 20px;
  min-height:40px;
  padding: 8px 15px;
+cursor: pointer;
 transition: all 0.3s ease 0s;
 }
 .header__button:hover{
